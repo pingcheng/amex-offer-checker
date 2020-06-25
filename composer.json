@@ -1,0 +1,13 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "vlucas/phpdotenv": "^5.0",
+        "paquettg/php-html-parser": "^2.2",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AmexOfferChecker\\": "libs/"
+        }
+    }
+}
